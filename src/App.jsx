@@ -23,7 +23,7 @@ function App() {
 
   return (
     <>
-      <div className="bg-red-200 h-max">
+      <div className="">
         <h1 className=" text-center mb-14 text-red-500 text-7xl">
           Paragraph Generator
         </h1>
